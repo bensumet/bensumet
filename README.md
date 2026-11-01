@@ -2,21 +2,21 @@
 
 Design engineer and frontend architect in Lone Tree, Colorado. I design and build the parts of a product other engineers build on: design systems, shared UI frameworks, and AI features that people can understand and trust.
 
-**Now:** Director, Product Engineering at Majesco. I'm the frontend architect for Immersive AI, a next-generation property and casualty insurance platform, where I build the user-facing AI features. I'm also leading the migration of legacy JSP quoting screens to React and MUI, and I lead a team of four engineers while staying hands-on.
+Now: Director, Product Engineering at Majesco. I'm the frontend architect for Immersive AI, a next-generation property and casualty insurance platform, where I build the user-facing AI features. I'm also leading the migration of legacy JSP quoting screens to React and MUI, and I lead a team of four engineers while staying hands-on.
 
-**Before:** 12 years at Decision Research Corporation (acquired by Majesco). I designed and built the design system for CoreConnect, an insurance platform used by about 25 carriers, and led a UI framework adopted across its product suite that cut duplicated code 80% and made pages load 15% faster.
+Before: 12 years at Decision Research Corporation, where I designed and built the design system for CoreConnect, an insurance platform used by about 25 carriers. After Majesco acquired DRC, I led a UI framework adopted across the CoreConnect product suite that cut duplicated code 80% and made pages load 15% faster.
 
-### What I work with
+What I work with
+React, TypeScript, JavaScript, HTML and CSS, MUI
+Design systems, theming, and WCAG accessibility
+Figma, UX research and prototyping
+AI-assisted development with GitHub Copilot, Claude Code and Devin
+CI/CD with GitHub Actions and Jenkins
+Background
 
-- React, TypeScript, JavaScript, HTML and CSS, MUI
-- Design systems, theming, and WCAG accessibility
-- Figma, UX research and prototyping
-- AI-assisted development with GitHub Copilot, Claude Code and Devin
-- CI/CD with GitHub Actions and Jenkins
+BFA in Graphic Design, BS in Computer Science, and MS in Information Systems (Software Engineering), plus 13 UX certifications from the Interaction Design Foundation.
 
-### Background
-
-BFA in Graphic Design, BS in Computer Science, and MS in Information Systems (Software Engineering), plus 13 UX certifications from the Interaction Design Foundation. My design work has been featured in *Design School Confidential* and James Craig's *Designing with Type*.
+I received an award as one of the outstanding design students in my class, and my design work has been featured in Design School Confidential and James Craig's Designing with Type. As a graphic designer at the East-West Center, I created data visualizations and an AIDS modeling guide adopted by 13 countries. I've also designed and typeset several books, and designed logos for businesses in Hawaii, including Kai Market at the Sheraton Waikiki.
 
 Most of my production work lives in private company repositories, so it doesn't show up here.
 
